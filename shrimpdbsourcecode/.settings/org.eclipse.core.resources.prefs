@@ -1,0 +1,17 @@
+#Tue Jan 17 14:39:59 CST 2017
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/views/Test/testmaptools.jsp=UTF-8
+encoding//WebRoot/WEB-INF/views/Test/testnewbutton.jsp=UTF-8
+encoding//WebRoot/WEB-INF/views/Test/testsearch.jsp=UTF-8
+encoding//WebRoot/WEB-INF/views/analysis/chart.jsp=UTF-8
+encoding//WebRoot/WEB-INF/views/home.jsp=UTF-8
+encoding//WebRoot/WEB-INF/views/query/querymap.jsp=UTF-8
+encoding//WebRoot/static/css/globle.css=UTF-8
+encoding//src/com/shrimpdb/services/BusinessServiceImply.java=UTF-8
+encoding//src/com/shrimpdb/services/QueyServiceImpl.java=UTF-8
+encoding//src/com/shrimpdb/services/UploadServiceImpl.java=UTF-8
+encoding//src/com/shrimpdb/services/UserServiceImpl.java=UTF-8
+encoding//src/com/shrimpdb/web/HomePageController.java=UTF-8
+encoding//src/com/shrimpdb/web/QueryController.java=UTF-8
+encoding//src/com/shrimpdb/web/TestController.java=UTF-8
+encoding//src/com/shrimpdb/web/UploadController.java=UTF-8
