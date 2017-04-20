@@ -1,2 +1,3 @@
-# SHRIMPDB
-a novel database system of SHRIMP zircon U-Pb geochronology 
+   SHRIMPDB
+======
+Web application for managing and sharing geochronological data.
