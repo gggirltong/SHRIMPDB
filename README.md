@@ -7,6 +7,7 @@ http://202.198.17.27/shrimpdb/home<br>
 ![SHRIMPDB](https://github.com/gggirltong/SHRIMPDB/blob/master/logo.png)   <br>
 
 ## Technique Overview
+Java programing language combined with SpringMVC framework was used to construct the web application. Apache tomcat was selected as the webserver to offer communication with clients. HTML, CSS, JavaScript and JSP were utilized to generate dynamic page content.Cloud GIS API was used in the development of query methods. Many plug-ins including DataTables, echarts, inputfile, kindeeditor were adopted in the designation of the visualization of data
 
 ## Installation
 #### Cloud hosting
