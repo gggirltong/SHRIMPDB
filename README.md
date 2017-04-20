@@ -1,7 +1,8 @@
 SHRIMPDB
 ===
-![SHRIMPDB](http://www.baidu.com/img/bdlogo.gif)  
+
 Web application for managing and sharing geochronological data.  <br>
+![SHRIMPDB](D:\logo.png)  <br>
 http://202.198.17.27/shrimpdb/home<br>
 ## Technique Overview
 
