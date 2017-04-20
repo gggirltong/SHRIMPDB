@@ -15,7 +15,7 @@ Analytical method of zircon U-Pb age determination using the Sensitive High Reso
 * plots by Echarts <br>
 ![plots](https://github.com/gggirltong/SHRIMPDB/blob/master/echartspage.jpg)
 ## Technique Overview
-Java programing language combined with SpringMVC framework was used to construct the web application. Apache tomcat was selected as the webserver to offer communication with clients. HTML, CSS, JavaScript and JSP were utilized to generate dynamic page content.Cloud GIS API was used in the development of query methods. Many plug-ins including DataTables, echarts, inputfile, kindeeditor were adopted in the designation of the visualization of data
+Java programing language combined with SpringMVC framework was used to construct the web application. Apache tomcat was selected as the webserver to offer communication with clients. HTML, CSS, JavaScript and JSP were utilized to generate dynamic page content.Cloud GIS API was used in the development of query methods. Many plug-ins including DataTables, echarts, inputfile, kindeeditor were adopted in the designation of the visualization of data. In addition, Shiro authenticity control are used in the development of the web application, which is used to manage the users and their roles.
 
 ## Installation
 #### Cloud hosting
