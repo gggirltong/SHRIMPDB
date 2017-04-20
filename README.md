@@ -4,7 +4,7 @@ SHRIMPDB
 Web application for managing and sharing geochronological data.  <br>
 http://202.198.17.27/shrimpdb/home<br>
 
-![SHRIMPDB]:https://github.com/gggirltong/SHRIMPDB/blob/master/logo.png "SHRIMPDB logo"   <br>
+![SHRIMPDB](https://github.com/gggirltong/SHRIMPDB/blob/master/logo.png)   <br>
 
 ## Technique Overview
 
