@@ -1,7 +1,10 @@
 SHRIMPDB
 ===
+![SHRIMPDB](http://www.baidu.com/img/bdlogo.gif)  
 Web application for managing and sharing geochronological data.  <br>
 http://202.198.17.27/shrimpdb/home<br>
+## Technique Overview
+
 ## Installation
 #### Cloud hosting
 visit http://202.198.17.27/shrimpdb/home<br>
@@ -13,6 +16,6 @@ Install SHRIMPDB web application within your infrastructure:<br>
 * step 2  put the shrimpdb folder in the path of webroot of Tomcat
 * step 3  import the shrimpcenter.sql file into mysql database system
 * step 4  open your tomcat service
-* step 5  Open http://localhost:8080/ in your browser. the 8080 is port number which is decided by the setting of your tomcat server
+* step 5  Open http://localhost:8080/shrimpdb in your browser. the 8080 is port number which is decided by the setting of your tomcat server
 ### Feedback
 Please report any issues or feedback to Email(dyutong_he@163.com) at timeoff.management
