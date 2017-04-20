@@ -14,5 +14,5 @@ Install SHRIMPDB web application within your infrastructure:<br>
 * step 3  import the shrimpcenter.sql file into mysql database system
 * step 4  open your tomcat service
 * step 5  Open http://localhost:8080/ in your browser. the 8080 is port number which is decided by the setting of your tomcat server
-#### Feedback
+### Feedback
 Please report any issues or feedback to Email(dyutong_he@163.com) at timeoff.management
