@@ -10,7 +10,7 @@ Analytical method of zircon U-Pb age determination using the Sensitive High Reso
 ## Screenshorts
 * Homepage <br>
 ![Homepage](https://github.com/gggirltong/SHRIMPDB/blob/master/homepage.jpg)
-* query methods based on Cloud GIS API<br>
+* query methods based on Cloud GIS API <br>
 ![Cloudgisquery](https://github.com/gggirltong/SHRIMPDB/blob/master/cloudgisquery.jpg)
 * plots by Echarts <br>
 ![plots](https://github.com/gggirltong/SHRIMPDB/blob/master/echartspage.jpg)
