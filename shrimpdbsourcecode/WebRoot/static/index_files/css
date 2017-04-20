@@ -1,8 +1,0 @@
-@media screen {
-@font-face {
-  font-family: 'Pompiere';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Pompiere '), local('Pompiere-Regular'), url('http://themes.googleusercontent.com/static/fonts/pompiere/v2/REn9C5nNcBLtk0UzcbjDQPesZW2xOQ-xsNqO47m55DA.woff') format('woff');
-}
-}
