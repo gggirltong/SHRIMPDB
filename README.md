@@ -7,6 +7,10 @@ http://202.198.17.27/shrimpdb/home<br>
 ![SHRIMPDB](https://github.com/gggirltong/SHRIMPDB/blob/master/logo.png)   <br>
 ## Description of SHRIMPDB
 Analytical method of zircon U-Pb age determination using the Sensitive High Resolution Ion Microprobe (SHRIMP) creates a new era in geochronological researches. The analytical data is precious for earth scientists. How to manage the data and make the data be reutilised by more scientists are two concern by earth scientists. SHRIMPDB is a database system for the advanced management and sharing of the data. This work was financially supported by National Science &Technology Infrastructure of Beijing SHRIMP Centre and National Science and Technology Support Program [2014BAK02B03] and the financial support from the National Major Scientific Instruments and Equipment Development Special Funds [2016YFF0103303].
+## Architecture of SHRIMPDB
+![SHRIMPDB](https://github.com/gggirltong/SHRIMPDB/blob/master/briefarchitecture.jpg)   <br>
+#### test user
+username:testthird   password:123456
 ## Screenshorts
 * Homepage <br>
 ![Homepage](https://github.com/gggirltong/SHRIMPDB/blob/master/homepage.jpg)
