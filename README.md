@@ -36,4 +36,5 @@ Install SHRIMPDB web application within your infrastructure:<br>
 ## Development
 if you want to edit .java file, Myeclipse development environment is needed in youre computer. the sourcecode folder combined with shrimpdb folder should be imported into myeclipse. then running the project, the homepage will be presented in your browser and .java file is stored in src folder.
 ### Feedback
-Please report any issues or feedback to Email(dyutong_he@163.com) at timeoff.management
+Please report any issues or feedback to Email(dyutong_he@163.com) at SHRIMPDB
+
